@@ -5,6 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.atakan.rhythmplus.data.ProvidedInfo
 import dagger.hilt.android.lifecycle.HiltViewModel
+import dagger.hilt.android.scopes.ServiceScoped
 import javax.inject.Inject
 
 @HiltViewModel
